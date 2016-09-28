@@ -1,3 +1,5 @@
 Initial work in the master branch
 
 Now here's some work on enhancement-1
+
+Finished work on enhancement-1
